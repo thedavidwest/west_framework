@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/thedavidwest/west_framework.svg)](https://travis-ci.org/thedavidwest/west_framework)
+
 # WestFramework
 
 This gem installs:
