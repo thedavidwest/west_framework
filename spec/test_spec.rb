@@ -1,8 +1,8 @@
 describe Hello do
-  context "first_test" do
+  context "first test" do
     it "is a test" do
       @hello = Hello.new
-      @hello.hello
+      expect(@hello.pow(3, 2)).to eql(9)
     end
   end
 end

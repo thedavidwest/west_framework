@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/thedavidwest/west_framework.svg)](https://travis-ci.org/thedavidwest/west_framework)
+[![Coverage Status](https://coveralls.io/repos/thedavidwest/west_framework/badge.svg?branch=master&service=github)](https://coveralls.io/github/thedavidwest/west_framework?branch=master)
 
 # WestFramework
 
